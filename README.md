@@ -1,6 +1,6 @@
 # caseonix
 
-> A solo AI lab building tools for Canadian regulated markets — residency, privilege, audit trails, agentic reliability. Waterloo, ON · Est. 2024.
+> A Co AI lab building tools for Canadian regulated markets — residency, privilege, audit trails, agentic reliability. Waterloo, ON · Est. 2024.
 
 **Live:** [caseonix.ca](https://caseonix.ca)
 
@@ -84,12 +84,15 @@ To run the build locally: `npm run build:notes` for HTML only, `npm run build:og
 
 Blog posts are still hand-authored HTML with JSON-LD. Drop the file, commit, push — `build-log-index.yml` picks it up for the homepage feed.
 
-## Why public
-
-Threads land with me directly — no agency layer, no SDR queue. Keeping the site repo public is part of that. If you want to see how something on the homepage is built, it's here.
 
 ## Contact
 
-- **Email:** srivatsa.kasagar@gmail.com
+- **Email:** srivatsa.kasagar@gmail.com 
 - **LinkedIn:** [linkedin.com/in/skasagar](https://linkedin.com/in/skasagar)
 - **GitHub:** [github.com/caseonix](https://github.com/caseonix)
+- **Website:** https://caseonix.ca
+
+- **Email:** rahul.d.jani@gmail.com
+- **LinkedIn:**
+- **GitHub:**
+
